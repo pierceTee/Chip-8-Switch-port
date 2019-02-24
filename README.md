@@ -15,10 +15,6 @@ This is my Nintendo Switch implementation of my Chip-8 Emulator/Interpreter usin
 ![brix](https://user-images.githubusercontent.com/43525848/50975793-40267e00-14a3-11e9-8699-c2cb5666b451.JPG)
 
 
-### Pause Menu
-![pause menu](https://user-images.githubusercontent.com/43525848/50975838-56ccd500-14a3-11e9-8972-c47415e620ff.JPG)
-
-
 ### Overview
 The Chip-8 is an interpreted programming language developed by Joseph Weisbecker in the 1970's.
 The interpreter executes .ch8 files allowing you to play many classic video games (such as; Space Invaders, Tetris, Pong, Pac-Man, and Brix)
