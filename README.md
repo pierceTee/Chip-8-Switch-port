@@ -26,9 +26,6 @@ More details on the chip-8 can be found [on wikipedia](https://en.wikipedia.org/
 - This is not ready for public use yet, use at your own disgression
 
 
-![keyboard layout](https://user-images.githubusercontent.com/43525848/50976442-d3ac7e80-14a4-11e9-9852-60eb8c3ee97a.png)
-##### *Image from [salindersidhu](https://github.com/salindersidhu/CHIP8)*
-
 ### Progress
 - Currently, the emulator is running fullspeed with audio support. 
 
